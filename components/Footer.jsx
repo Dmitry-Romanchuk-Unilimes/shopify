@@ -18,7 +18,7 @@ export const Footer = () => {
             </div>
           ))}
         </nav>
-        <p className="mt-8 text-center text-gray-400">
+        <p className="mt-8 text-center text-gray-500">
           &copy; {new Date().getFullYear()} Shopify + Next.js Course, All rights
           reserved.
         </p>

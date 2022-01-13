@@ -1,4 +1,4 @@
-import ProductPageContent from '../../components/productPageContent';
+import ProductPageContent from '../../components/PproductPageContent';
 import { getAllProducts, getProduct } from '../../lib/shopify'
 
 const ProductPage = ({ product }) => {
